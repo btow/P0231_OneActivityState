@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P0231_OneActivityState</string>
+    <string name="activity_is_created">Activity is created.</string>
+    <string name="activity_is_started">Activity is started. It becomes visible.</string>
+    <string name="activity_is_resume">Activity is resume. It gets the focus.</string>
+    <string name="activity_is_paused">Activity is paused. It\'s suspended.</string>
+    <string name="activity_is_stopped">Activity is stopped.</string>
+    <string name="activity_is_destroyed">Activity is destroyed.</string>
+</resources>
