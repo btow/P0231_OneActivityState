@@ -17,4 +17,5 @@
     <string name="this_is_activity_one">This is Activity One.</string>
     <string name="go_to_activity_two">Go to Activity Two</string>
     <string name="this_is_activivty_two">This is Activivty Two.</string>
+    <string name="two_activity">TwoActivity</string>
 </resources>
