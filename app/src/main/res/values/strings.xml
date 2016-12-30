@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">P0231_OneActivityState</string>
+    <string name="app_name">P0241_TwoActivityState</string>
     <string name="activity_1_is_created">MainActivity is created.</string>
     <string name="activity_1_is_restarted">MainActivity is restarted.</string>
     <string name="activity_1_is_started">MainActivity is started. It becomes visible.</string>
